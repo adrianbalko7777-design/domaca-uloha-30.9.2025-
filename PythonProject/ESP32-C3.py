@@ -59,5 +59,5 @@ def draw():
         star.show()
         star.pz = star.z
 
-
+#print ()
 py5.run_sketch()
